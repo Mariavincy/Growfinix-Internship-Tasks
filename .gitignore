@@ -1,4 +1,4 @@
-# Virtual environments
+# Python virtual environments
 venv/
 **/venv/
 
@@ -6,10 +6,10 @@ venv/
 __pycache__/
 *.pyc
 
-# Environment variables
+# Environment files
 .env
 
-# Chroma DB
+# Databases
 chroma_db/
 
 # VS Code
@@ -17,3 +17,9 @@ chroma_db/
 
 # Logs
 *.log
+# Logs
+<<<<<<< HEAD
+*.log
+=======
+*.log
+>>>>>>> d0a72b09045ace7c188b5721086eb2c0e5fc09d7

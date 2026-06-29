@@ -34,7 +34,7 @@ playwright install
 ### Create .env file
 
 ```text
-HF_TOKEN=<gemini_token>
+GEMINI_API_KEY=<gemini_api_key>
 ```
 
 ### Run

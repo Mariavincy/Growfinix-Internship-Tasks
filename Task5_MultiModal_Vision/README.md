@@ -18,6 +18,10 @@ A web application built using Flask and Google Gemini Vision API that analyzes u
 * Object detection
 * Scene description generation
 
+## Note
+
+The original task suggested using GPT-4o (Vision) or Claude 3.5 Sonnet with Node.js. For this implementation, Google Gemini 2.5 Flash Vision with Python and Flask was used as an equivalent multimodal AI solution. The application fulfills the same functional requirements, including image understanding, OCR, and visual analysis.
+
 ## How to Run
 
 Install dependencies:
